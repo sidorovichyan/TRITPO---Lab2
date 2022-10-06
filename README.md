@@ -65,19 +65,19 @@
 
 ## 4 Внешний вид приложения
 
-## 4.1 Главная страница
+### 4.1 Главная страница
 ![image](https://user-images.githubusercontent.com/72657584/194246619-fe543928-41db-46aa-9bc6-cc63c12c4b52.png)
 
-## 4.2 Страница входа
+### 4.2 Страница входа
 ![image](https://user-images.githubusercontent.com/72657584/194247014-8d59d469-98e4-470c-9fa6-43dc0a372149.png)
 
-## 4.3 Страница регистрации
+### 4.3 Страница регистрации
 ![image](https://user-images.githubusercontent.com/72657584/194247079-3ef33efa-171e-423f-a61c-270bdbae52de.png)
 
-## 4.4 Страница профиля пользователя
+### 4.4 Страница профиля пользователя
 ![image](https://user-images.githubusercontent.com/72657584/194247216-a72e6ed4-3029-4e54-b06f-384383840732.png)
 
-## 4.5 Страница создания сниппета
+### 4.5 Страница создания сниппета
 ![image](https://user-images.githubusercontent.com/72657584/194247267-65f2cd61-a026-4cac-a232-a070a7eaa65d.png)
 
 
