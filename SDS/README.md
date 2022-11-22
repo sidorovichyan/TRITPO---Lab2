@@ -39,5 +39,5 @@
 
 Диаграмма последовательности в соответствии с вариантом использования.
 
-![Sequence vpd](https://user-images.githubusercontent.com/72657584/203250549-3d111381-5f33-4207-8569-d029c8d95fad.jpg)
+![image](https://user-images.githubusercontent.com/72657584/203260639-dee4b97c-c084-4f12-b3a0-fa0232910476.png)
 
