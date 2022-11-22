@@ -41,3 +41,12 @@
 
 ![image](https://user-images.githubusercontent.com/72657584/203260836-25b50cda-9406-496a-8f60-57264a414c04.png)
 
+# State
+
+Диаграмма состояний в соответствии с вариантом использования.
+
+![image](https://user-images.githubusercontent.com/72657584/203266134-78cffead-e7a6-4ef7-abc1-26ec192d8c78.png)
+
+# Database schema
+
+Схема базы данных приложения
