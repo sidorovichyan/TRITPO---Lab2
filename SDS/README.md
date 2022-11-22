@@ -50,3 +50,13 @@
 # Database schema
 
 Схема базы данных приложения
+
+# Components
+
+![Components vpd](https://user-images.githubusercontent.com/72657584/203282181-82f16297-9846-47bd-87a1-b488a974b720.jpg)
+
+# Deployment
+
+![image](https://user-images.githubusercontent.com/72657584/203284566-26377bdf-0d98-4628-a8dc-1d131261ee77.png)
+
+
