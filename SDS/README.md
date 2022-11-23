@@ -53,10 +53,7 @@
 
 ## 2 Варианты использования
 
-![Untitled (2)](https://user-images.githubusercontent.com/59147112/203561478-f5c68819-5d5d-4614-a24a-16f0d94e633c.png)
-
-
-
+![Untitled (3)](https://user-images.githubusercontent.com/59147112/203562061-4b125963-0ba4-4e09-865a-8c7027d484e0.png)
 
 ### 2.1 Регистрация
 
