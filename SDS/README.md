@@ -53,7 +53,8 @@
 
 ## 2 Варианты использования
 
-![Untitled (1)](https://user-images.githubusercontent.com/59147112/203560657-b333c544-1080-485c-a9d9-887423f7829e.png)
+![Untitled (2)](https://user-images.githubusercontent.com/59147112/203561478-f5c68819-5d5d-4614-a24a-16f0d94e633c.png)
+
 
 
 
