@@ -94,7 +94,7 @@
 
 Схема базы данных приложения
 
-![codelang-db@latest jpg](https://user-images.githubusercontent.com/72657584/203285600-000e07d3-0c2a-4f43-ad27-90b7177c4df2.jpg)
+![image](https://user-images.githubusercontent.com/59147112/204760993-e393a9f0-68e8-4743-ba4f-f0ea79ab251d.png)
 
 # Components
 
