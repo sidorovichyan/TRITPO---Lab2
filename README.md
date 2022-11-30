@@ -4,3 +4,4 @@
 
 ### [SRS](https://github.com/shev7/TRITPO---Lab2/tree/main/SRS)
 ### [SDS](https://github.com/shev7/TRITPO---Lab2/tree/main/SDS)
+### [Tests](https://github.com/shev7/TRITPO---Lab2/tree/main/Tests)
